@@ -17,8 +17,7 @@ Esse projeto tem o objetivo de realizar analise de dados das frutas e hortaliça
  
  ## Implementação
  
- 
- ## Integração com as disciplinas
+ ### Diagramas
  
  ### Desenvolvimento de Dispositivos Móveis
  Consiste no desenvolvimento de um aplicativo (software) responsável por exibir informações ao usuário sobre o nível de maturidade de algumas frutas e hortaliças, através de dados coletados pelo dispositivo em Arduino, dados como temperatura, umidade com recomendação para melhor ambiente, temperatura e umidade adequadas, para a melhor conservação desses alimentos.
@@ -34,7 +33,7 @@ Códigos -
 
  Visando utilizar dos conhecimentos obtidos na disciplina, tais como utilização de Arduino, Sensores, atuadores, conexões, programação, protocolos MQTT, utilizando plataforma como: Tinkercad para simulação, Node Red, Programa do Arduino e outros fatores e funcionalidades.
  
-### Dispositivo:
+#### Dispositivo:
 
 Para a implementação do dispositivos utilizamos: 
 - Arduino Uno
@@ -56,6 +55,8 @@ Utilizamos o modelo de conexão da imagem 2.
 ![Imagem 5](Image5.jpg)
 
 
+#### Implementação:
+ 
 Para a programação do Arduino. Foi necessário para uma nova versão do programa 'Arduino', e duas bibliotecas para a utilização do sensor: a Biblioteca DHT11 e a AdaFruit. 
 
 A seguir, temos o código utilizado para a execução do sensor. E Também a saída respectiva do sensor, apresentando a temperatura e umidade do ambiente.
@@ -64,8 +65,6 @@ A seguir, temos o código utilizado para a execução do sensor. E Também a sa�
 ![Imagem 8](image88.jpg)
 
 
-Implementação - 
- 
  ### Teste de software
 Em todo projeto ou software é necessário a fase de testes, para o melhor desenvolvimento, buscando falhas, propondo melhorias e a melhor utilização dos usuários. Visto isso, e a forma de desenvolvimento do software, optamos por utilizar O Delphi, no Rad Studio, que é um ambiente que permite encontrar soluções para a proposta de projeto, como também formas integradas de testes nesse aplicativo.
 
@@ -73,6 +72,6 @@ Também será utilizado a fase de teste no dispositivo, visto que o setor de ali
 
 Conhecimentos esses obtidos na disciplina de Teste de Software, referente a ferramenta Rad Studio, como também melhores formas e funcionalidades na realização de testes no aplicativo e etc.
 
-Teste Unitários -
+#### Teste Unitários:
 
-Teste de componentes - 
+#### Teste de componentes:
