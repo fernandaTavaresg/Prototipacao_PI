@@ -34,7 +34,35 @@ Códigos -
 
  Visando utilizar dos conhecimentos obtidos na disciplina, tais como utilização de Arduino, Sensores, atuadores, conexões, programação, protocolos MQTT, utilizando plataforma como: Tinkercad para simulação, Node Red, Programa do Arduino e outros fatores e funcionalidades.
  
-Dispositivo - 
+### Dispositivo:
+
+Para a implementação do dispositivos utilizamos: 
+- Arduino Uno
+- Placa de Ensaio (Protoboard)
+- Sensor DHT11 (Umidade e Temperatura)
+- Resistor (10 k Ohms)
+- Jumpers/fios (macho-macho)
+- Cabo USB para Arduino
+
+Na imagem a seguir, temos o dispositivo Arduino Uno que utilizamos e o sensor DHT11, que é a base do nosso projeto, para coleta de dados da temperatura e umidade, tendo uma faixa de temperatura entre 0ºC a 50ºC e de umidade relativa de 20% UR a 90% UR, e a conexão com cabo USB para carregar o programa apartir do computador.
+
+![Imagem 3](Imagem3.jpg)
+
+Fizemos a montagem do DHT11 ao Arduino, com o protoboard, um resistor de 10k Ohms. O DHT11 possui 4 pinos, sendo eles: o primeiro (VCC), sendo ligado a alimentação da placa 5V. O segundo é o de dados, que conectamos ao resistor e também ao pino 2 do Arduino. o terceiro (NC) não é utilizado. e o quarto conectado ao terra (GND).
+
+Utilizamos o modelo de conexão da imagem 2.
+
+![Imagem 2](Image2.jpg)
+![Imagem 5](Image5.jpg)
+
+
+Para a programação do Arduino. Foi necessário para uma nova versão do programa 'Arduino', e duas bibliotecas para a utilização do sensor: a Biblioteca DHT11 e a AdaFruit. 
+
+A seguir, temos o código utilizado para a execução do sensor. E Também a saída respectiva do sensor, apresentando a temperatura e umidade do ambiente.
+
+![Imagem 9](image99.jpg)
+![Imagem 8](image88.jpg)
+
 
 Implementação - 
  
