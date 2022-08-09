@@ -106,9 +106,9 @@ No teste de componentes, os componentes do software são testados separadamente 
 além do seu primeiro acesso para registro dos dados pessoais no ato do cadastramento, manter o vínculo com as informações indispensáveis dos produtos e categorias de seu interesse. Tudo isso possível, por meio de uma aplicação desenvolvido em Delphi.
 
 #### Referências:
-Teste Unitário. site: https://www.devmedia.com.br/guia/tecnicas-e-fundamentos-de-testes-de-software/34403/consultado-no-dia-06-08-2022/
+DevMedia, Testes Unitários. Disponível em: https://www.devmedia.com.br/guia/tecnicas-e-fundamentos-de-testes-de-software/34403. acesso em: 06 ago. 2022
 
-Teste de Componentes. site: https://www.devmedia.com.br/testes-funcionais-de-software/23565/consultado-no-dia-08-08-2022/
+DevMedia, Testes de Componentes. Disponível em: https://www.devmedia.com.br/testes-funcionais-de-software/23565 . acesso em: 08 ago. 2022
 
 LUCIDA (org.). O que é um diagrama de sequência UML?: o que é um diagrama de sequência em uml?. O que é um diagrama de sequência em UML?. 2022. 2022 Lucid Software Inc.. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-sequencia-uml. Acesso em: 08 ago. 2022
 
