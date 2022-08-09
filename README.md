@@ -18,6 +18,11 @@ Esse projeto tem o objetivo de realizar analise de dados das frutas e hortaliça
  ## Implementação
  
  ### Diagramas
+ #### Diagrama de sequência
+ O diagrama de sequência é uma solução dinâmica de modelagem em UML bastante usada porque incide especificamente sobre linhas da vida, ou os processos e objetos que vivem simultaneamente, e as mensagens trocadas entre eles para desempenhar uma função antes do término da linha da vida. Junto com a nossa ferramenta de diagramação UML, use este guia para aprender tudo sobre diagramas de sequência em UML.
+ Os diagramas de seqüência em UML são usados, principalmente, para modelar as interações entre os atores e os objetos em um sistema e as interações entre os próprios objetos. A UML tem uma sintaxe rica para diagramas de seqüência, que permite a modelagem de vários tipos de interação. Como não tenho espaço para cobrir todas as possibilidades aqui, concentro-me nos fundamentos desse tipo de diagrama.
+  
+ ![Diagrama de Sequencia](DiagramaSequencia.png)
  
  ### Desenvolvimento de Dispositivos Móveis
  Consiste no desenvolvimento de um aplicativo (software) responsável por exibir informações ao usuário sobre o nível de maturidade de algumas frutas e hortaliças, através de dados coletados pelo dispositivo em Arduino, dados como temperatura, umidade com recomendação para melhor ambiente, temperatura e umidade adequadas, para a melhor conservação desses alimentos.
@@ -73,5 +78,21 @@ Também será utilizado a fase de teste no dispositivo, visto que o setor de ali
 Conhecimentos esses obtidos na disciplina de Teste de Software, referente a ferramenta Rad Studio, como também melhores formas e funcionalidades na realização de testes no aplicativo e etc.
 
 #### Teste Unitários:
+Os testes unitários tem por objetivo autenticar pequenas partes do software com base em suas entradas possíveis e saídas esperadas. As unidades usadas nesse tipo de teste sãos as menores partes testáveis de um sistema, normalmente funções, que recebem argumentos e retornam um determinado valor ou efetuam alguma ação cujo resultado pode ser analisado.
+
+Os testes unitários são muito utilizados no TDD (Test Drivem Development), uma metodologia de desenvolvimento que se baseia nos testes para implementar as funcionalidades (ao invés de fazer o contrário, que é mais comum).
 
 #### Teste de componentes:
+No teste de componentes, os componentes do software são testados separadamente de acordo com a especificação e estrutura das funcionalidades. Estes componentes são as interações de interface e unidades do software, com diversas classes no seu desenvolvimento. Nessa categoria será avaliada a interação do protótipo das interfaces e, possibilitando a navegação acionando seus botões de interação como comandos essenciais que permitem aos usuário.
+
+além do seu primeiro acesso para registro dos dados pessoais no ato do cadastramento, manter o vínculo com as informações indispensáveis dos produtos e categorias de seu interesse. Tudo isso possível, por meio de uma aplicação desenvolvido em Delphi.
+
+#### Referências:
+- Teste Unitário. site: https://www.devmedia.com.br/guia/tecnicas-e-fundamentos-de-testes-de-software/34403/consultado-no-dia-06-08-2022/
+
+- Teste de Componentes. site: https://www.devmedia.com.br/testes-funcionais-de-software/23565/consultado-no-dia-08-08-2022/
+
+LUCIDA (org.). O que é um diagrama de sequência UML?: o que é um diagrama de sequência em uml?. O que é um diagrama de sequência em UML?. 2022. 2022 Lucid Software Inc.. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-sequencia-uml. Acesso em: 08 ago. 2022
+
+Sommerville, Ian Engenharia de Software / Ian Sommerville; tradução Ivan Bosnic e Kalinka G. de O. Gonçalves; revisão técnica Kechi Hirama. — 9. ed. — São Paulo: Pearson Prentice Hall, 2011  
+
