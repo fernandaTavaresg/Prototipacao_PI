@@ -22,7 +22,7 @@ Esse projeto tem o objetivo de realizar analise de dados das frutas e hortaliça
  O diagrama de sequência é uma solução dinâmica de modelagem em UML bastante usada porque incide especificamente sobre linhas da vida, ou os processos e objetos que vivem simultaneamente, e as mensagens trocadas entre eles para desempenhar uma função antes do término da linha da vida. Junto com a nossa ferramenta de diagramação UML, use este guia para aprender tudo sobre diagramas de sequência em UML.
  Os diagramas de seqüência em UML são usados, principalmente, para modelar as interações entre os atores e os objetos em um sistema e as interações entre os próprios objetos. A UML tem uma sintaxe rica para diagramas de seqüência, que permite a modelagem de vários tipos de interação. Como não tenho espaço para cobrir todas as possibilidades aqui, concentro-me nos fundamentos desse tipo de diagrama.
   
- ![Diagrama de Sequencia](diaseq.png)
+ ![Diagrama de Sequencia](diagramaS.jpg)
  
  #### Diagrama de Caso de Uso
  
