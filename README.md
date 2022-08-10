@@ -47,10 +47,16 @@ Esse diagrama representa a modelagem do banco de dados que será utilizado para 
 
 Esse aplicativo será desenvolvido em Delphi, no ambiente de desenvolvimento Rad Studio, multiplataforma, podendo ser acessado em qualquer dispositivo, facilitando o acesso para os dispositivos móveis (Celulares, Tablets). Na disciplina estamos aprendendo sobre o desenvolvimento pelo Rad Studio, Delphi, funcionalidades, APIs, Design; e poderemos utilizar tudo isso para o projeto.
  
-Interfaces -
- 
-Códigos - 
- 
+#### Construção das Interfaces  
+ ![Imagem 1](telaInicial.jpg)
+![Imagem 2](entrar.jpg)
+![Imagem 3](cadastrar.jpg)
+![Imagem 4](Menu.jpg)
+![Imagem 5](menuda.jpg)
+![Imagem 6](ambiente.jpg)
+![Imagem 7](umidade.jpg)
+![Imagem 8](dica.jpg)
+
  ### Programação para internet das coisas
  Será utlizada para o dispositivo em Arduino, conciliado com sensores de umidade e temperatura, para fazer a coleta de dados das frutas e hortaliças, gerenciando controle de amadurecimento e dias de duração, sugerindo melhorias relacionadas a ambiente, transporte, temperatura, umidade e outros fatores. Buscando atráves desse gerenciamento reduzir fatores de aprodrecimento e do desperdicio de frutas e verduras.
 
